@@ -24,7 +24,12 @@ The host has to reveal a door containing a goat, otherwise the game is ruined. Y
 
 Most people's instinct is to keep their original choice, from a combination of thinking the probabilities are equally distributed across all three doors and a preference for their chosen door (through loss or 'switch' aversion). While this incorrect decision can be the cause of cognitive biases, it is also susceptible to incorrect reasoning through a misunderstanding of the probability distribution (Tabau, Aguilar-Lleyda, and Johnson, 2015).
 
-
-As can be seen in the above graph, even arbitrarily choosing whether you keep or switch provides a better outcome to just keeping your original door. Regardless of this, many people will still choose to keep their door even if they are told they have better odds if they switch. This can be explained by psychology, with research suggesting that the pain of losing a possession is twice as powerful as the pleasure of acquiring it (Tversky and Kahneman, 2000). Whether the correct decision is known or not, there remains a temptaton to base decisions off emotions. 
+As can be seen from the graph in the notebook, even arbitrarily choosing whether you keep or switch provides a better outcome to just keeping your original door. Regardless of this, many people will still choose to keep their door even if they are told they have better odds if they switch. This can be explained by psychology, with research suggesting that the pain of losing a possession is twice as powerful as the pleasure of acquiring it (Tversky and Kahneman, 2000). Whether the correct decision is known or not, there remains a temptaton to base decisions off emotions. 
 
 Simulating each decision 10,000 times may prove to be more persuading than simply explaining the probability, as most people tend to be more susceptible to practical experience over theory. 
+
+### References
+
+Tabau, E., Aguilar-Lleyda, D., Johnson, E. D. (2015). Reasoning and choice in the Monty Hall Dilemma (MHD): implications for improving Bayesian reasoning. Front Psychol 6:353. doi:10.3389/fpsyg.2015.00353
+
+Tversky, A., & Kahneman, D. (2000). Loss Aversion in Riskless Choice: A Reference-Dependent Model. In D. Kahneman & A. Tversky (Eds.), Choices, Values, and Frames (pp. 143-158). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511803475.008
